@@ -7,6 +7,10 @@
 $(function(){
 	var pageInfo = $('#admin-root').data();
 
+
+
+
+	var trdt = pagd.id;
 	var categoryId = pageInfo.cid;
 	var tagIds = {};
 
